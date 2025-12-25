@@ -1,14 +1,3 @@
-# ================================================================
-# KAZAKHSTAN TECH LABOR MARKET ANALYSIS
-# Final Project - Data Mining Course
-# ================================================================
-# Author: Azamat
-# Course: Data Mining, KBTU
-# Dataset: hh.kz (HeadHunter Kazakhstan API)
-# Problems: 4 research questions on skill valuation, salaries, 
-#           regional differences, and market-education alignment
-# ================================================================
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
